@@ -42,3 +42,8 @@ class ArticleDisplay(BaseModel):
     user: User
     class Confiq():
         orm_mode = True 
+
+class ProductBase(BaseModel):
+    title: str
+    description: str
+    price: float

@@ -1,0 +1,4 @@
+: check 
+	http://127.0.0.1:8000/dependecies?additional_query=bla%20bla&separator=%3F%3F%3F&message=check 
+: check 
+	http://127.0.0.1:8000/dependecies?additional_query=bla%20bla&separator=%3F%3F%3F&message=check 

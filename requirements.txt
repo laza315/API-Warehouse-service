@@ -6,3 +6,8 @@ bcrypt
 python-multipart
 python-jose
 aiofiles
+pytest
+httpx
+requests
+jinja2
+websockets
